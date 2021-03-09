@@ -1,4 +1,4 @@
-# prianti
+# Tendencys
 
 ## Project setup
 ```
